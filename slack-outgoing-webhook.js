@@ -7,7 +7,7 @@ module.exports = function (context, done) {
   
   console.log(context.secrets);
   
-  done(null, { text: 'hello pileta.tv' });
+  done(null, { text: 'hello pileta' });
   
   
 };
